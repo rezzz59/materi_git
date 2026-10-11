@@ -1,0 +1,1209 @@
+Kembali ke koridor
+SabakCTRL/
+1
+Forum Diskusi
+Adaptive Reading
+MODUL
+KELAS AKTIF
+Belajar Dasar Git dengan GitHub
+78 / 78 modul100%
+Persiapan Belajar
+Persetujuan Hak Cipta
+1.1 · Gratis
+Prasyarat Kemampuan
+1.2 · Gratis
+Prasyarat Tools
+1.3 · Gratis
+Mekanisme Belajar
+1.4 · Gratis
+Forum Diskusi
+1.5 · Gratis
+Glosarium
+1.6 · Gratis
+Daftar Referensi
+1.7 · Gratis
+Latihan Ujian
+1.8 · Gratis
+Git dan GitHub
+Pengantar Git dan GitHub
+2.1 · Gratis
+Mengenal Git secara Lebih Dalam
+2.2 · Gratis
+Mengenal GitHub secara Lebih Dalam
+2.3 · Gratis
+Latihan Membuat Akun GitHub
+2.4 · Gratis
+Latihan Mengeksplorasi Proyek GitHub
+2.5 · Gratis
+Latihan Mengenal GitHub Dashboard
+2.6 · Gratis
+Notifikasi GitHub
+2.7 · Gratis
+Rangkuman Git dan Github
+2.8 · Gratis
+Kuis Git dan Github
+2.9
+Dasar Git
+Pengantar Dasar Git
+3.1
+Mengenal Perintah Dasar Git secara Lebih Dalam
+3.2
+Mengenal Git Workflow
+3.3
+Mengenal Repository
+3.4
+Latihan Membuat Repository Baru
+3.5
+Latihan Membuat Readme untuk Repository
+3.6
+Latihan Menambahkan File Baru
+3.7
+Latihan Mengubah Data dalam Berkas Menggunakan Com...
+3.8
+Latihan Membuat Release File
+3.9
+Rangkuman Dasar Git
+3.10
+Kuis Dasar Git
+3.11
+Studi Kasus Pengalaman Belajar
+Persiapan Studi Kasus Pengalaman Belajar
+4.1
+Membuat Repository Baru
+4.2
+Menambahkan Pengalaman Belajar Pertama
+4.3
+Menambahkan Kembali Progres Belajar
+4.4
+Mengubah Tampilan Menggunakan Format Markdown
+4.5
+Tantangan Menambahkan Progres Belajar
+4.6
+Melihat History Perubahan
+4.7
+Merilis Dokumentasi Pengalaman Belajar
+4.8
+Rangkuman Studi Kasus Pengalaman Belajar
+4.9
+Kuis Studi Kasus Pengalaman Belajar
+4.10
+Git Branches
+Pengantar Git Branches
+5.1
+Apa itu Branch
+5.2
+Latihan Membuat Branch Baru
+5.3
+Latihan Melakukan Perpindahan Branch
+5.4
+Apa itu Merge
+5.5
+Apa itu Pull Request
+5.6
+Latihan Melakukan Merge
+5.7
+Latihan Menyelesaikan Merge Conflict
+5.8
+Rangkuman Git Branches
+5.9
+Kuis Git Branches
+5.10
+Kolaborasi dengan Tim
+Pengantar Kolaborasi dengan Tim
+6.1
+Apa itu Kolaborasi
+6.2
+Latihan Berkolaborasi dengan Tim
+6.3
+Apa Itu Fork
+6.4
+Latihan Berkolaborasi pada Public Repository
+6.5
+Latihan Melakukan Revert
+6.6
+Apa Itu Squashing Changes
+6.7
+Latihan Melakukan Squashing Changes
+6.8
+Apa Itu Code Reviews
+6.9
+Latihan Melakukan Code Reviews
+6.10
+Rangkuman Kolaborasi dengan Tim
+6.11
+Kuis Kolaborasi dengan Tim
+6.12
+Studi Kasus Kolaborasi dengan Tim
+Persiapan Studi Kasus Kolaborasi dengan Tim
+7.1
+Membuat Repository Baru
+7.2
+Menambahkan Aturan Mendaftar Volunter
+7.3
+Menyalin Repository
+7.4
+Menambahkan Data Diri dalam Berkas README.md
+7.5
+Melakukan Pull Request
+7.6
+Menangani Pull Request
+7.7
+Tantangan Melakukan Pull-Request pada Repository D...
+7.8
+Rangkuman Studi Kasus Kolaborasi dengan Tim
+7.9
+Kuis Studi Kasus Kolaborasi dengan Tim
+7.10
+GitHub sebagai Portfolio
+Pengantar GitHub sebagai Portofolio
+8.1
+Mengapa GitHub Menjadi Portofolio para Developer
+8.2
+Latihan Membuat Portofolio Menggunakan GitHub
+8.3
+Latihan Melihat Portofolio para Developer
+8.4
+Rangkuman GitHub sebagai Portofolio
+8.5
+Kuis GitHub sebagai Portofolio
+8.6
+Penutup
+Rangkuman Kelas
+9.1
+Ujian Akhir
+9.2
+Pengantar Git dan GitHub
+Di dalam dunia pengembangan aplikasi, kita akan sering mendengar istilah source code management atau yang biasa dikenal dengan version control system. Apa itu Version Control System? Mengapa sih penting untuk mempelajarinya, terlebih jika kita adalah seorang developer.
+Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu aplikasi, termasuk juga source code. Setiap perubahan yang dilakukan akan dicatat, sehingga memperjelas siapa yang telah melakukan perubahan tersebut. Selain itu, version control juga berfungsi sebagai backup files. Dengan begitu, akan mempermudah pencarian bug atau masalah.
+
+Version Control System atau yang biasa disingkat dengan VCS, merupakan tools terbaik untuk berkolaborasi antar developer ketika membangun aplikasi. Perusahaan-perusahaan besar di dunia telah menggunakannya untuk mengelola produk atau aplikasi mereka. Contohnya adalah Facebook yang menggunakan Mercurial dan Twitter yang menggunakan Git. Git dan Mercurial ini adalah contoh dari Version Control System.
+Lalu bagaimana cara menggunakannya? Kita bisa menggunakan Git secara free atau gratis melalui layanan online yang tersedia seperti GitHub, Bitbucket, dan Gitlab. Namun, salah satu yang cukup populer adalah GitHub. Terlebih ketika ia diakuisisi oleh Microsoft, kepopulerannya semakin menjadi-jadi. GitHub merupakan layanan hosting repository Git berbasis web yang juga memiliki banyak fitur seperti bug tracking dan task management.
+Jika Anda merasa awam tentang Git dan GitHub, maka tak perlu khawatir ya. Sebab, kita akan membahas tuntas berbagai hal menarik seputar Version Control System, seperti
+Git dan GitHub.
+Dasar-dasar Git.
+Git Branches.
+Berkolaborasi dengan Tim.
+GitHub sebagai Portofolio.
+Bagaimana sudah siap? Kencangkan ikat pinggangmu ya. Karena sudah saatnya kita mulai belajar dasar Git dengan GitHub. Semangat!
+Sebelumnya
+Selanjutnya
+
+
+Kembali ke koridor
+
+
+Sabak
+
+CTRL
+/
+1
+Forum Diskusi
+Adaptive Reading
+MODUL
+
+KELAS AKTIF
+Belajar Dasar Git dengan GitHub
+
+78 / 78 modul
+100%
+Persiapan Belajar
+Persetujuan Hak Cipta
+1.1 · Gratis
+Prasyarat Kemampuan
+1.2 · Gratis
+Prasyarat Tools
+1.3 · Gratis
+Mekanisme Belajar
+1.4 · Gratis
+Forum Diskusi
+1.5 · Gratis
+Glosarium
+1.6 · Gratis
+Daftar Referensi
+1.7 · Gratis
+Latihan Ujian
+1.8 · Gratis
+Git dan GitHub
+Pengantar Git dan GitHub
+2.1 · Gratis
+Mengenal Git secara Lebih Dalam
+2.2 · Gratis
+Mengenal GitHub secara Lebih Dalam
+2.3 · Gratis
+Latihan Membuat Akun GitHub
+2.4 · Gratis
+Latihan Mengeksplorasi Proyek GitHub
+2.5 · Gratis
+Latihan Mengenal GitHub Dashboard
+2.6 · Gratis
+Notifikasi GitHub
+2.7 · Gratis
+Rangkuman Git dan Github
+2.8 · Gratis
+Kuis Git dan Github
+2.9
+Dasar Git
+Pengantar Dasar Git
+3.1
+Mengenal Perintah Dasar Git secara Lebih Dalam
+3.2
+Mengenal Git Workflow
+3.3
+Mengenal Repository
+3.4
+Latihan Membuat Repository Baru
+3.5
+Latihan Membuat Readme untuk Repository
+3.6
+Latihan Menambahkan File Baru
+3.7
+Latihan Mengubah Data dalam Berkas Menggunakan Com...
+3.8
+Latihan Membuat Release File
+3.9
+Rangkuman Dasar Git
+3.10
+Kuis Dasar Git
+3.11
+Studi Kasus Pengalaman Belajar
+Persiapan Studi Kasus Pengalaman Belajar
+4.1
+Membuat Repository Baru
+4.2
+Menambahkan Pengalaman Belajar Pertama
+4.3
+Menambahkan Kembali Progres Belajar
+4.4
+Mengubah Tampilan Menggunakan Format Markdown
+4.5
+Tantangan Menambahkan Progres Belajar
+4.6
+Melihat History Perubahan
+4.7
+Merilis Dokumentasi Pengalaman Belajar
+4.8
+Rangkuman Studi Kasus Pengalaman Belajar
+4.9
+Kuis Studi Kasus Pengalaman Belajar
+4.10
+Git Branches
+Pengantar Git Branches
+5.1
+Apa itu Branch
+5.2
+Latihan Membuat Branch Baru
+5.3
+Latihan Melakukan Perpindahan Branch
+5.4
+Apa itu Merge
+5.5
+Apa itu Pull Request
+5.6
+Latihan Melakukan Merge
+5.7
+Latihan Menyelesaikan Merge Conflict
+5.8
+Rangkuman Git Branches
+5.9
+Kuis Git Branches
+5.10
+Kolaborasi dengan Tim
+Pengantar Kolaborasi dengan Tim
+6.1
+Apa itu Kolaborasi
+6.2
+Latihan Berkolaborasi dengan Tim
+6.3
+Apa Itu Fork
+6.4
+Latihan Berkolaborasi pada Public Repository
+6.5
+Latihan Melakukan Revert
+6.6
+Apa Itu Squashing Changes
+6.7
+Latihan Melakukan Squashing Changes
+6.8
+Apa Itu Code Reviews
+6.9
+Latihan Melakukan Code Reviews
+6.10
+Rangkuman Kolaborasi dengan Tim
+6.11
+Kuis Kolaborasi dengan Tim
+6.12
+Studi Kasus Kolaborasi dengan Tim
+Persiapan Studi Kasus Kolaborasi dengan Tim
+7.1
+Membuat Repository Baru
+7.2
+Menambahkan Aturan Mendaftar Volunter
+7.3
+Menyalin Repository
+7.4
+Menambahkan Data Diri dalam Berkas README.md
+7.5
+Melakukan Pull Request
+7.6
+Menangani Pull Request
+7.7
+Tantangan Melakukan Pull-Request pada Repository D...
+7.8
+Rangkuman Studi Kasus Kolaborasi dengan Tim
+7.9
+Kuis Studi Kasus Kolaborasi dengan Tim
+7.10
+GitHub sebagai Portfolio
+Pengantar GitHub sebagai Portofolio
+8.1
+Mengapa GitHub Menjadi Portofolio para Developer
+8.2
+Latihan Membuat Portofolio Menggunakan GitHub
+8.3
+Latihan Melihat Portofolio para Developer
+8.4
+Rangkuman GitHub sebagai Portofolio
+8.5
+Kuis GitHub sebagai Portofolio
+8.6
+Penutup
+Rangkuman Kelas
+9.1
+Ujian Akhir
+9.2
+Mengenal Git secara Lebih Dalam
+Pernahkah Anda mengerjakan suatu proyek, baik kecil maupun besar, dengan berkolaborasi bersama tim seperti halnya mengerjakan produk perangkat lunak? Masing-masing anggota tim akan mengerjakan setiap bagian pekerjaan, kemudian menggabungkannya untuk mendapatkan satu tujuan. Namun dalam implementasinya, komunikasi, riwayat pengerjaan, dan distribusi file proyek kerap mengalami kendala. 
+
+Pada pengerjaan secara tradisional, setiap anggota tim harus menunggu satu sama lain untuk menyelesaikan satu bagian, kemudian mengirimkannya ke anggota lain untuk melanjutkan pengerjaannya. Tentu itu akan memakan banyak waktu, bukan?
+
+Oleh karena itu, harus ada solusi untuk menyelesaikan permasalahan tersebut.  Teknologi untuk melakukan manajemen tim serta pengerjaan proyek pun harus dihadirkan, salah satunya adalah Git yang dapat memberikan kemudahan pada tim untuk melakukan komunikasi saat proses pengerjaan proyek, melihat riwayat perubahan pengerjaan, serta menuntaskan pekerjaan tanpa harus saling menunggu satu sama lain.
+
+2021071209450214eb6fbda57ce79770efe24d3ec9ecb0.png
+
+Pernahkah Anda mengerjakan tugas penulisan misalnya tugas akhir dan membuat versi revisi ke dalam folder, kemudian memberikan nama revisi 1, revisi 2, dan seterusnya, lalu menyimpannya di komputer lokal atau penyimpanan cloud? Jika iya, pastinya itu akan memakan ruang yang banyak untuk sekadar menyimpan hasil revisi tugas akhir. 
+
+Selain itu, jika ada perubahan di setiap revisi, Anda tidak akan dapat melihat riwayat perubahannya. Anda juga tidak akan bisa mengembalikan perubahan yang terjadi pada dua hari yang lalu. Lebih parahnya lagi, Anda tidak akan mendapatkan kembali file yang sudah terhapus ataupun hilang. Tentu saja itu semua akan membuat masalah besar, bukan?
+
+2021071209452257703d13141997b9d660884ffe26a2b7.png
+
+Oleh karena itu, Anda dapat menggunakan Git sebagai solusi untuk menyimpan semua revisi Anda ke dalam penyimpanan yang lebih aman. Anda bisa melihat semua revisi yang telah Anda lakukan, bahkan mengembalikan setiap file yang kemungkinan terhapus. Intinya, riwayat setiap perubahan file akan dapat Anda lihat. Keren, kan? Kemudahan tersebut dapat ditemukan pada teknologi Git. Nah, sekarang muncul pertanyaan, apa sebenarnya Git itu?
+
+Git adalah perangkat lunak yang disediakan secara open source (kode sumber terbuka). Git bertujuan untuk mendukung kolaborasi antar anggota tim serta mengontrol setiap versi perubahan dalam sebuah pekerjaan pengembangan aplikasi ataupun pada bidang lainnya. Git pertama kali dibangun oleh pengembang kernel Linux, yaitu Linus Torvalds pada tahun 2005. 
+
+Sejarah Git dimulai dari pengembangan kernel Linux yang merupakan proyek perangkat lunak open source dalam lingkup yang sangat besar. Dalam kurun waktu tahun 1991-2002, pengembangan kernel Linux dihabiskan dengan membuat patch dan berkas terarsip untuk melakukan pemeliharaan source code. Pada tahun 2002, proyek kernel Linux mulai menggunakan Distributed version control systems (DVCS) yang paten bernama BitKeeper. 
+
+Pada tahun 2005, hubungan antara komunitas yang mengembangkan kernel Linux dan perusahaan komersial yang mengembangkan BitKeeper terputus, sehingga komunitas pengembang kernel Linux pun tidak dapat memanfaatkan BitKeeper secara gratis. Hal ini mendesak komunitas pengembangan Linux (khususnya Linus Torvalds sang pencipta Linux) untuk mengembangkan Version Control System (VCS) mereka sendiri berdasarkan pengalaman yang telah mereka dapatkan ketika menggunakan BitKeeper. Beberapa kriteria dari sistem baru tersebut adalah sebagai berikut:
+
+Kecepatan
+Rancangan yang sederhana
+Mendukung alur kerja terdistribusi yang menyerupai BitKeeper
+Dukungan yang kuat untuk pengembangan non-linier (ribuan cabang paralel)
+Benar-benar tersebar dan memiliki perlindungan yang sangat kuat terhadap kerusakan data, baik yang tidak disengaja maupun yang berniat buruk
+Mampu menangani proyek besar seperti Linux secara efisien (kecepatan dan ukuran data)
+Kriteria-kriteria tersebut tidak bisa dipenuhi oleh semua sistem version control yang tersedia pada saat itu. Sehingga setelah rilis pengembangan Linux versi 2.6.12-rc2, Linus Torvalds mulai mengembangkan sistem version control sendiri. 
+
+Pengembangan Git dimulai pada 3 April 2005, Linus Torvalds mengumumkan proyeknya pada 6 April 2005, kemudian Git mampu melakukan self-hosting pada keesokan harinya. Penggabungan (merge) beberapa cabang pertama kali dilakukan pada 18 April 2005. Linus Torvalds mencapai sasaran performanya pada 29 April 2005, Git sudah tercatat mengirimkan patch ke root kernel Linux dengan kecepatan 6,7 patch per detik. Pada 16 Juni 2005, Git mengeluarkan rilis kernel Linux versi 2.6.12. Linus Torvalds menyerahkan pemeliharaan Git pada 26 Juli 2005 kepada Junio Hamano, seorang kontributor besar dalam proyek. Hamano bertanggung jawab atas rilis 1.0 pada 21 Desember 2005 dan terus menjadi pemelihara utama proyek Git tersebut.
+
+20210712094552103ab81e76f7fe3057e2650963a3f6e7.png
+
+Sejak kelahirannya pada 2005, Git telah berevolusi dan berkembang sehingga menjadi platform yang mudah digunakan dan memiliki kualitas yang sangat baik. Git sangat cepat dan efisien pada proyek-proyek besar. Git juga memiliki sistem percabangan yang hebat untuk pengembangan non-linear. 
+
+Karakteristik kinerja Git sangat kuat jika dibandingkan dengan banyak alternatif version control system lainnya. Semua proses untuk version control, baik perubahan baru, percabangan, penggabungan, maupun perbandingan versi baru dengan sebelumnya telah dioptimalkan. 
+
+Ketahuilah! Algoritma yang diimplementasikan di dalam Git memanfaatkan pengetahuan mendalam tentang atribut umum dari tree source code dan bagaimana mereka biasanya dimodifikasi dari waktu ke waktu. 
+
+Dengan memanfaatkan Git, kita bisa berkolaborasi dalam tim. Jadi, kita tidak perlu lagi mengerjakan pengembangan sistem ataupun hal lainnya yang berbasis text dengan cara antrean alias menunggu anggota tim pertama selesai mengerjakan kemudian mengirimkan hasil pekerjaan kepada anggota berikutnya untuk melanjutkannya. Tentunya itu akan banyak memakan waktu dan juga tidak efektif. 
+
+Pada implementasinya, saat menggunakan Git, kita akan dihadapkan dengan berbagai pengaturan awal yang diperlukan untuk membangun sebuah repository Git server sebagai ruang untuk menyimpan proyek yang akan dibangun.
+
+Pada tahap awal mengenal Git, terdapat beberapa istilah yang akan sering Anda temui. Beberapa istilah ini akan lebih diperdalam pada modul selanjutnya. Berikut ini istilah-istilah yang terdapat dalam Git:
+
+
+Git Repository
+Git Repository (Repositori Git) merupakan wadah penyimpanan kumpulan file dari berbagai versi proyek yang berbeda. Kumpulan file ini diimpor melalui repository ke server lokal pengguna untuk pembaruan dan modifikasi lebih lanjut dalam konten file.
+
+VCS (Version Control System) atau Sistem Kontrol Versi digunakan untuk membuat versi dan menyimpannya di tempat tertentu yang disebut sebagai repository. Proses menyalin konten dari Repositori Git menggunakan bantuan berbagai alat Git disebut sebagai kloning (clone). Setelah proses kloning selesai, pengguna mendapatkan repository lengkap di mesin lokalnya. Pada posisi ini, Git akan mengasumsikan bahwa berbagai hal yang akan dikerjakan oleh pengguna terjadi pada repository lokal. Pengguna juga dapat membuat repository baru atau menghapus repository yang ada.
+
+2021071209462258f91bbf9546ff1afa24c76d5875a7e3.png
+
+Sebuah Git repository memungkinkan Anda melakukan berbagai operasi di atasnya untuk membuat versi yang berbeda dari proyek. Operasi ini termasuk penambahan file, membuat repository baru, melakukan tindakan, atau menghapus repository. Modifikasi ini akan menghasilkan pembuatan versi proyek yang berbeda.
+
+
+Git Branch
+Git Branch merupakan fitur yang dapat digunakan untuk membuat sebuah percabangan untuk versi baru dari proyek Anda. Penggunaan Git Branch ini sangat berguna pada saat Anda melakukan eksperimen dengan proyek Anda. Dengan begitu, Anda tidak akan mengubah apa pun di dalam proyek utama.
+
+202107172156070c490737d5da780586da1944081788c9.png
+
+Pada Git branch terdapat cabang utama (master) sebagai induk dari pekerjaan. Selain itu, terdapat juga percabangan baru yang dapat Anda visualisasikan sebagai penambahan fitur, ada fitur kecil dan fitur besar.
+
+
+Git Fork
+Fork merupakan salinan dari sebuah repository orang lain yang tersimpan di dalam sebuah repository Git. Forking repository memungkinkan Anda untuk bereksperimen dengan bebas dan membuat perubahan tanpa memengaruhi repository utamanya.
+
+20210712094709ebeb563ca2f6a1b9d90d1fe7e61d2e2e.png
+
+Alur kerja fork dimulai dengan menemukan repository publik asli yang tersimpan dalam server. Namun ketika pengembang ingin memulai mengerjakan proyek, mereka tidak langsung mengkloning repository resmi. Sebagai gantinya, mereka mengambil repository resmi untuk membuat salinannya di server. Salinan baru ini bersifat sebagai repository publik pribadi mereka. Tidak ada pengembang lain yang diizinkan untuk mengirim perubahan pada repository tersebut. Namun, mereka dapat mendapatkan perubahan dari repository tersebut. Selain bersifat publik, kita juga dapat menyimpan salinan repository menjadi private. Sehingga pengembang lain tidak akan bisa melihat perubahan yang telah kita lakukan.
+
+
+Git Clone
+Git Clone hampir sama dengan Git Fork, keduanya sama-sama melakukan salinan pada repository. Yang berbeda adalah saat melakukan git fork, repository akan disimpan berada di dalam server. Sedangkan untuk git clone, hasil salinannya disimpan dalam penyimpanan lokal. Perintah Git Clone adalah cara yang paling umum bagi pengguna untuk mendapatkan salinan tulisan. Melakukan Clone hanya dilakukan satu kali, yaitu saat akan mengerjakan satu proyek yang telah tersimpan di dalam Git repository. Kemudian pengembang menyalin proyek yang tersimpan di dalam repository untuk diletakkan di penyimpanan lokal. Setelah pengembang mendapatkan salinan pekerjaan, semua operasi dan kolaborasi kontrol versi dikelola melalui repository lokal.
+
+2021071209472695299674faeb883c4547302be9cb26e3.png
+
+Penggunaan clone paling umum digunakan untuk mengambil satu repository yang ada dan membuat clone dari repository tersebut ke direktori baru di lokasi lain. Repository asli dapat ditemukan di sistem file lokal atau pada protokol yang didukung untuk dapat diakses melalui jarak jauh.
+
+Untuk memudahkan, cloning secara otomatis membuat koneksi jarak jauh (remote) yang disebut dengan “origin” yang mengacu dari repositori lokal ke repository asli (di server). Ini membuatnya sangat mudah untuk berinteraksi dengan repository pusat.
+
+
+Git Commit
+Commit merupakan cuplikan perubahan (snapshot) dari repository Anda pada waktu tertentu. Dengan begitu, setiap pekerjaan yang telah selesai, dapat disimpan ke dalam repository Anda.
+
+202107120951316d1d75fb7018eec245eb7bafefd119ba.jpeg
+
+Ketika Anda menggunakan antarmuka GitHub, Anda dapat secara langsung menggunakan perintah git commit untuk menyimpan setiap perubahan yang dilakukan. Namun, ketika Anda menggunakan penyimpanan lokal, Anda harus mengoperasikan Git add sebelum memanggil git commit. Git add berguna untuk menambahkan file yang diubah ke dalam daftar antrean perubahan. Kedua perintah ini, baik Git commit maupun Git add, merupakan dua perintah yang sering digunakan saat Anda menggunakan Git dengan penyimpanan lokal.
+
+20210712095136064f7f6b9ca8d105730ca4f503df37fb.jpeg
+
+Setiap commit yang dilakukan dapat menggambarkan aktivitas apa saja yang terjadi selama proyek dikerjakan. Setiap tim dapat melakukan commit terhadap file dalam satu proyek secara bersamaan tanpa harus menunggu anggota tim lain melakukannya.
+
+
+
+Git Push
+Perintah Git push merupakan tindakan lanjutan dari perintah Git commit. Git push mengunggah semua commit cabang (branch commit) pada repository lokal ke repository server. Secara default, Git push hanya memperbarui cabang yang sesuai pada remote. Sehingga jika Anda sedang berada di branch master atau melakukan check out ke master dengan perintah Git push, hanya branch master-lah yang akan diperbarui.
+
+20210717215649fdf20aa9c92028d6505cd3b7ca4ca2c4.png
+
+
+
+Penggunaan Git push
+Setelah membuat dan melakukan perubahan secara lokal, Anda dapat membagikannya dengan repository di server menggunakan Git push. Mendorong perubahan ke server akan membuat commit Anda dapat diakses oleh orang lain yang mungkin berkolaborasi dengan Anda. Ini juga akan memperbarui permintaan dengan cabang yang sedang Anda kerjakan.
+
+Ketika Anda menggunakan antarmuka GitHub, setiap commit yang dilakukan akan tersimpan secara langsung di repository. Sehingga Anda tidak perlu menjalankan perintah git push dan git pull. 
+
+Namun, ketika Anda menggunakan penyimpanan lokal, penting untuk menjalankan perintah Git pull sebelum meng-upload (git push) perubahan baru ke server. Dengan melakukan git pull, repository lokal akan diperbarui sesuai dengan repository remote saat ini. Sehingga ketika ada kontributor lain yang melakukan perubahan pada repository server, repository lokal ikut diperbarui. Melakukan git pull (menarik) sebelum Anda melakukan git push (mendorong), dapat mengurangi jumlah konflik pada proses penggabungan yang dibuat, serta memungkinkan Anda untuk menyelesaikannya permasalahan secara lokal sebelum mendorong perubahan ke  server.
+
+Sebelumnya
+Selanjutnya
+
+Kembali ke koridor
+
+
+Sabak
+
+CTRL
+/
+1
+Forum Diskusi
+Adaptive Reading
+MODUL
+
+KELAS AKTIF
+Belajar Dasar Git dengan GitHub
+
+78 / 78 modul
+100%
+Persiapan Belajar
+Persetujuan Hak Cipta
+1.1 · Gratis
+Prasyarat Kemampuan
+1.2 · Gratis
+Prasyarat Tools
+1.3 · Gratis
+Mekanisme Belajar
+1.4 · Gratis
+Forum Diskusi
+1.5 · Gratis
+Glosarium
+1.6 · Gratis
+Daftar Referensi
+1.7 · Gratis
+Latihan Ujian
+1.8 · Gratis
+Git dan GitHub
+Pengantar Git dan GitHub
+2.1 · Gratis
+Mengenal Git secara Lebih Dalam
+2.2 · Gratis
+Mengenal GitHub secara Lebih Dalam
+2.3 · Gratis
+Latihan Membuat Akun GitHub
+2.4 · Gratis
+Latihan Mengeksplorasi Proyek GitHub
+2.5 · Gratis
+Latihan Mengenal GitHub Dashboard
+2.6 · Gratis
+Notifikasi GitHub
+2.7 · Gratis
+Rangkuman Git dan Github
+2.8 · Gratis
+Kuis Git dan Github
+2.9
+Dasar Git
+Pengantar Dasar Git
+3.1
+Mengenal Perintah Dasar Git secara Lebih Dalam
+3.2
+Mengenal Git Workflow
+3.3
+Mengenal Repository
+3.4
+Latihan Membuat Repository Baru
+3.5
+Latihan Membuat Readme untuk Repository
+3.6
+Latihan Menambahkan File Baru
+3.7
+Latihan Mengubah Data dalam Berkas Menggunakan Com...
+3.8
+Latihan Membuat Release File
+3.9
+Rangkuman Dasar Git
+3.10
+Kuis Dasar Git
+3.11
+Studi Kasus Pengalaman Belajar
+Persiapan Studi Kasus Pengalaman Belajar
+4.1
+Membuat Repository Baru
+4.2
+Menambahkan Pengalaman Belajar Pertama
+4.3
+Menambahkan Kembali Progres Belajar
+4.4
+Mengubah Tampilan Menggunakan Format Markdown
+4.5
+Tantangan Menambahkan Progres Belajar
+4.6
+Melihat History Perubahan
+4.7
+Merilis Dokumentasi Pengalaman Belajar
+4.8
+Rangkuman Studi Kasus Pengalaman Belajar
+4.9
+Kuis Studi Kasus Pengalaman Belajar
+4.10
+Git Branches
+Pengantar Git Branches
+5.1
+Apa itu Branch
+5.2
+Latihan Membuat Branch Baru
+5.3
+Latihan Melakukan Perpindahan Branch
+5.4
+Apa itu Merge
+5.5
+Apa itu Pull Request
+5.6
+Latihan Melakukan Merge
+5.7
+Latihan Menyelesaikan Merge Conflict
+5.8
+Rangkuman Git Branches
+5.9
+Kuis Git Branches
+5.10
+Kolaborasi dengan Tim
+Pengantar Kolaborasi dengan Tim
+6.1
+Apa itu Kolaborasi
+6.2
+Latihan Berkolaborasi dengan Tim
+6.3
+Apa Itu Fork
+6.4
+Latihan Berkolaborasi pada Public Repository
+6.5
+Latihan Melakukan Revert
+6.6
+Apa Itu Squashing Changes
+6.7
+Latihan Melakukan Squashing Changes
+6.8
+Apa Itu Code Reviews
+6.9
+Latihan Melakukan Code Reviews
+6.10
+Rangkuman Kolaborasi dengan Tim
+6.11
+Kuis Kolaborasi dengan Tim
+6.12
+Studi Kasus Kolaborasi dengan Tim
+Persiapan Studi Kasus Kolaborasi dengan Tim
+7.1
+Membuat Repository Baru
+7.2
+Menambahkan Aturan Mendaftar Volunter
+7.3
+Menyalin Repository
+7.4
+Menambahkan Data Diri dalam Berkas README.md
+7.5
+Melakukan Pull Request
+7.6
+Menangani Pull Request
+7.7
+Tantangan Melakukan Pull-Request pada Repository D...
+7.8
+Rangkuman Studi Kasus Kolaborasi dengan Tim
+7.9
+Kuis Studi Kasus Kolaborasi dengan Tim
+7.10
+GitHub sebagai Portfolio
+Pengantar GitHub sebagai Portofolio
+8.1
+Mengapa GitHub Menjadi Portofolio para Developer
+8.2
+Latihan Membuat Portofolio Menggunakan GitHub
+8.3
+Latihan Melihat Portofolio para Developer
+8.4
+Rangkuman GitHub sebagai Portofolio
+8.5
+Kuis GitHub sebagai Portofolio
+8.6
+Penutup
+Rangkuman Kelas
+9.1
+Ujian Akhir
+9.2
+Mengenal Repository
+Di materi sebelumnya, kita banyak menyinggung atau menyebut kata repository. Di materi sebelumnya juga telah dijelaskan sedikit mengenai apa itu repository. Repository atau dalam bahasa Indonesia repositori, jika diartikan yaitu gudang; tempat penyimpanan. Dari arti ini, kita sudah bisa mengerti arti dari repository itu sendiri sehingga dalam dunia Git, repository bisa diartikan sebagai tempat penyimpanan atau direktori dari sekumpulan file/berkas yang mana dalam repository ini Git bisa merekam setiap perubahan berkas dan menyimpannya di dalam riwayat commit. Istilah ini akan sering muncul karena sejatinya Git memang digunakan untuk melakukan manajemen versi pada direktori ini. Setidaknya ada dua jenis direktori yang harus dipahami, yaitu Remote Repository dan Local Repository.
+
+Remote Repository
+Remote Repository merupakan tempat penyimpanan berkas-berkas pekerjaan atau kenangan yang kita miliki di dalam server. Anda bisa menggunakan berbagai layanan penyimpanan berbasis cloud yang sangat populer seperti GitHub, Gitlab, dan BitBucket. Selain itu, jika Anda memiliki server sendiri, Anda juga dapat menginstal layanan Git ke dalam server. Dengan menggunakan Remote Repository, orang lain dapat mengakses repository yang kita simpan dengan mudah.
+
+Local Repository
+Local Repository merupakan tempat penyimpanan lokal yang berada di komputer kita. Local repository ini dapat kita ubah-ubah (hapus, modifikasi, tambah) sesuai dengan keinginan kita sebelum akhirnya nanti di-push ke remote repository.
+
+Pertanyaannya, mengapa repository ini harus ada? Jawabannya adalah agar lebih memudahkan kita dalam mengubah atau memodifikasi, apalagi dalam keadaan offline atau di saat tidak ada jaringan internet. Jadi, kita masih bisa melakukannya secara luring (offline) sampai ada jaringan internet dan nantinya akan di-push ke remote repository.
+
+Local Repository ini terhubung ke Online Repository melalui remote URL. Remote URL merupakan alamat yang merujuk pada lokasi di mana online repository kita berada. Remote URL inilah yang menghubungkan local repository kita dengan online repository. Sehingga, memungkinkan kita untuk mengirim perubahan yang sudah dilakukan di local repository ke online repository atau mengambil perubahan yang ada di remote repository untuk memperbarui local repository kita.
+Berbicara tentang repository, GitHub juga menyediakan repository secara cloud. Di sana, kita bisa membuat repository yang dapat memuat berbagai file dan melakukan penambahan, perubahan, ataupun penghapusan file secara online dan dilakukan langsung dari web GitHub.
+
+dos:2064641531dec475311d2fdd7ebf2e9920230829113555.png
+
+Di dalam Repository, kita dapat menyimpan berbagai jenis file/berkas, mulai dari dokumen txt, pdf, doc, xls, dkk. Kita juga bisa menyimpan file berbentuk compressed seperti .zip atau .rar, bahkan berkas gambar atau audio pun bisa. Namun, tidak semua berkas bisa dikenali oleh GitHub atau tampil dalam mode preview. Contohnya adalah berkas readme.md dengan berkas markdown akan muncul dalam tampilan preview. Untuk lebih detailnya, silakan pelajari lebih lanjut di sini.
+
+dos:3d470d3e89f5d4d77673364be50c696820230829113720.png
+
+Selain itu, pada Repository juga support terhadap file/berkas berbentuk source code program. GitHub memiliki kemampuan untuk menganalisis bahasa pemrograman apa saja yang menyusun suatu proyek yang berada dalam repository seperti yang ditampilkan kotak merah pada gambar.
+
+Dari sini, kita bisa memahami bahwa repository adalah direktori kerja yang menyimpan semua berkas–berkas dari proyek, baik dokumen, gambar, audio, maupun source code program. Untuk lebih mendalami tentang repository, mari kita berlatih untuk membuat repository di GitHub pada modul selanjutnya.
+
+Sebelumnya
+Selanjutnya
+
+Kembali ke koridor
+
+
+Sabak
+
+CTRL
+/
+1
+Forum Diskusi
+Adaptive Reading
+MODUL
+
+KELAS AKTIF
+Belajar Dasar Git dengan GitHub
+
+78 / 78 modul
+100%
+Persiapan Belajar
+Persetujuan Hak Cipta
+1.1 · Gratis
+Prasyarat Kemampuan
+1.2 · Gratis
+Prasyarat Tools
+1.3 · Gratis
+Mekanisme Belajar
+1.4 · Gratis
+Forum Diskusi
+1.5 · Gratis
+Glosarium
+1.6 · Gratis
+Daftar Referensi
+1.7 · Gratis
+Latihan Ujian
+1.8 · Gratis
+Git dan GitHub
+Pengantar Git dan GitHub
+2.1 · Gratis
+Mengenal Git secara Lebih Dalam
+2.2 · Gratis
+Mengenal GitHub secara Lebih Dalam
+2.3 · Gratis
+Latihan Membuat Akun GitHub
+2.4 · Gratis
+Latihan Mengeksplorasi Proyek GitHub
+2.5 · Gratis
+Latihan Mengenal GitHub Dashboard
+2.6 · Gratis
+Notifikasi GitHub
+2.7 · Gratis
+Rangkuman Git dan Github
+2.8 · Gratis
+Kuis Git dan Github
+2.9
+Dasar Git
+Pengantar Dasar Git
+3.1
+Mengenal Perintah Dasar Git secara Lebih Dalam
+3.2
+Mengenal Git Workflow
+3.3
+Mengenal Repository
+3.4
+Latihan Membuat Repository Baru
+3.5
+Latihan Membuat Readme untuk Repository
+3.6
+Latihan Menambahkan File Baru
+3.7
+Latihan Mengubah Data dalam Berkas Menggunakan Com...
+3.8
+Latihan Membuat Release File
+3.9
+Rangkuman Dasar Git
+3.10
+Kuis Dasar Git
+3.11
+Studi Kasus Pengalaman Belajar
+Persiapan Studi Kasus Pengalaman Belajar
+4.1
+Membuat Repository Baru
+4.2
+Menambahkan Pengalaman Belajar Pertama
+4.3
+Menambahkan Kembali Progres Belajar
+4.4
+Mengubah Tampilan Menggunakan Format Markdown
+4.5
+Tantangan Menambahkan Progres Belajar
+4.6
+Melihat History Perubahan
+4.7
+Merilis Dokumentasi Pengalaman Belajar
+4.8
+Rangkuman Studi Kasus Pengalaman Belajar
+4.9
+Kuis Studi Kasus Pengalaman Belajar
+4.10
+Git Branches
+Pengantar Git Branches
+5.1
+Apa itu Branch
+5.2
+Latihan Membuat Branch Baru
+5.3
+Latihan Melakukan Perpindahan Branch
+5.4
+Apa itu Merge
+5.5
+Apa itu Pull Request
+5.6
+Latihan Melakukan Merge
+5.7
+Latihan Menyelesaikan Merge Conflict
+5.8
+Rangkuman Git Branches
+5.9
+Kuis Git Branches
+5.10
+Kolaborasi dengan Tim
+Pengantar Kolaborasi dengan Tim
+6.1
+Apa itu Kolaborasi
+6.2
+Latihan Berkolaborasi dengan Tim
+6.3
+Apa Itu Fork
+6.4
+Latihan Berkolaborasi pada Public Repository
+6.5
+Latihan Melakukan Revert
+6.6
+Apa Itu Squashing Changes
+6.7
+Latihan Melakukan Squashing Changes
+6.8
+Apa Itu Code Reviews
+6.9
+Latihan Melakukan Code Reviews
+6.10
+Rangkuman Kolaborasi dengan Tim
+6.11
+Kuis Kolaborasi dengan Tim
+6.12
+Studi Kasus Kolaborasi dengan Tim
+Persiapan Studi Kasus Kolaborasi dengan Tim
+7.1
+Membuat Repository Baru
+7.2
+Menambahkan Aturan Mendaftar Volunter
+7.3
+Menyalin Repository
+7.4
+Menambahkan Data Diri dalam Berkas README.md
+7.5
+Melakukan Pull Request
+7.6
+Menangani Pull Request
+7.7
+Tantangan Melakukan Pull-Request pada Repository D...
+7.8
+Rangkuman Studi Kasus Kolaborasi dengan Tim
+7.9
+Kuis Studi Kasus Kolaborasi dengan Tim
+7.10
+GitHub sebagai Portfolio
+Pengantar GitHub sebagai Portofolio
+8.1
+Mengapa GitHub Menjadi Portofolio para Developer
+8.2
+Latihan Membuat Portofolio Menggunakan GitHub
+8.3
+Latihan Melihat Portofolio para Developer
+8.4
+Rangkuman GitHub sebagai Portofolio
+8.5
+Kuis GitHub sebagai Portofolio
+8.6
+Penutup
+Rangkuman Kelas
+9.1
+Ujian Akhir
+9.2
+Latihan Membuat Repository Baru
+
+
+Tujuan
+Sejauh ini kita sudah memahami apa itu repository dan mengetahui lebih dalam tentang repository. Latihan Membuat Repository Baru ini bertujuan untuk mengajarkan Anda tentang bagaimana cara membuat repository baru dalam GitHub. Beberapa bagian dari latihan ini akan menjawab beberapa pertanyaan seperti berikut.
+
+Apa itu repository dalam GitHub?
+Bagaimana cara membuatnya?
+Apa saja properti yang dimiliki oleh sebuah repository?
+
+
+Tahapan Proses
+Berikut tahapan proses yang akan kita lakukan dalam latihan membuat repository baru dalam GitHub.
+
+Membuka halaman GitHub.
+Membuat repository baru.
+Mengisi form pembuatan repository.
+
+
+Latihan Membuat Repository Baru
+Ikutilah beberapa tahap berikut untuk mengikuti latihan membuat akun baru di GitHub.
+
+Pertama, buka browser Anda dan masuk ke halaman www.github.com, lalu pilih menu Sign In untuk login ke GitHub dengan akun yang sebelumnya sudah dibuat. Setelah login, kita akan diarahkan ke halaman beranda dari akun GitHub kita seperti pada gambar berikut.
+dos:f328b87bf5563571e42d47f0df3aa6cc20230829120319.pngJika akun kita belum memiliki proyek atau repository, tampilannya akan seperti di atas. Bisa Anda perhatikan di samping kiri atas terdapat menu Create Repository untuk membuat repository baru. Selain itu, kita juga dapat meng-import repository yang sudah ada sebelumnya dari layanan selain GitHub dengan cara memilih menu Import Repository.
+
+Untuk membuat repository baru, klik menu Create Repository sehingga Anda akan melihat tampilan halaman seperti berikut.
+dos:e406e7fc294919e297d982756cfb5d1820230829120429.pngMari kita kupas terlebih dahulu bagian dari form tersebut, ya.
+
+Yang pertama adalah pada kolom untuk penamaan repository.
+dos:4001fa16ad487d5ab6f1e0d5dd52fbd320230829150912.pngUntuk penamaan repository, terdapat beberapa hal yang perlu Anda perhatikan.
+Owner, menandakan repository ini milik siapa. Jika nantinya Anda tergabung pada organisasi, Anda bisa menentukan apakah repository ini untuk akun pribadi atau untuk organisasi.
+Garis miring (/), untuk memisahkan nama repository dengan owner.
+Repository name, isi dengan nama dari repository atau proyek kita pada kolom tersebut. Perlu diingat untuk penamaan repository tidak menggunakan spasi. Jika penamaan repository memiliki lebih dari satu kata, lebih baik menggunakan tanda hubung (-) untuk memisahkan antara satu kata dengan kata lainnya.
+Description, berisi deskripsi dari repository yang akan dibuat. Deskripsi ini bersifat opsional, boleh diisi ataupun tidak. Namun, lebih baik jika bisa mengisi deskripsi untuk repository kita agar lebih memperjelas kegunaan dari repository ini serta penjelasan tentang proyek yang ingin dibuat.
+
+Untuk latihan kali ini, kita akan membuat repository untuk Daftar Biodata Siswa.  Jadi, silakan isi nama repository dengan Daftar-Biodata-Siswa. Untuk deskripsi, kita bisa mengisinya dengan “Daftar biodata siswa Dicoding Academy”.
+dos:05cb0116bb2e9356f34749615ed8186120230829151152.png
+Poin selanjutnya adalah pengaturan dari privasi repository yang akan dibuat. Ketika Anda memilih repository bersifat Public, repository tersebut akan terbuka dan dapat dilihat oleh orang lain, serta orang lain dapat mengajukan untuk berkontribusi di dalamnya. Sementara itu, jika Anda memilih repository bersifat Private, repository akan bersifat tertutup dan tidak akan bisa dilihat oleh orang lain selain orang-orang yang diundang sebagai Collaborator.
+dos:c4d8de607245625096a723dc9bb902f120230829151451.png
+Untuk latihan kali ini, repository tersebut akan kita buat menjadi private saja karena hanya untuk latihan sehingga tidak perlu dijadikan public.
+
+Selanjutnya adalah inisialisasi dalam repository yang akan dibuat.
+dos:564aa9515762914f9bdb33980ff7518020230829151712.pngTerdapat 3 hal yang dapat diinisialisasi ketika membuat repository baru di GitHub. Berikut detailnya.
+Add a README file atau penambahan README File pada repository baru. Ketika repository telah dibuat, GitHub secara otomatis membuatkan file Readme ke dalam repository. Berkas README ini nantinya dapat Anda ubah untuk keperluan penjelasan lebih detail terhadap apa yang ada di dalam repository tersebut.
+
+Add .gitignore atau penambahan berkas .gitignore pada repository. Ketika repository telah terbuat, file .gitignore akan tercipta sesuai dengan pilihan template .gitignore yang dipilih.
+
+Lalu, apa itu berkas .gitignore? Berkas .gitignore merupakan sebuah berkas yang berisi daftar nama-nama berkas serta direktori yang akan diabaikan oleh Git. Perubahan apa pun yang dilakukan pada berkas dan direktori yang sudah masuk ke dalam daftar .gitignore tidak akan dicatat oleh Git. Berkas .gitignore ini biasanya digunakan para pengguna Git ketika ingin membuat repository yang berisi proyek aplikasi atau software.
+
+Choose a license atau penambahan berkas license pada repository. Ketika membuat repository, Anda bisa memilih lisensi untuk repository tersebut sehingga proyek yang ada di dalamnya dapat digunakan secara bebas oleh orang lain. Tentunya dengan syarat dan ketentuan yang berlaku sesuai dengan lisensi yang kita pilih. Biasanya penambahan lisensi diperuntukkan bagi para pengguna Git yang biasa membuat proyek software atau aplikasi yang bersifat open source di repository mereka.
+
+Oke, saatnya melanjutkan konfigurasi pembuatan repository baru. Untuk latihan kali ini, kita tidak perlu menambahkan readme karena nanti kita akan belajar bagaimana menambahkan file Readme sendiri. Jadi, biarkan box Add a README file tidak tercentang. Selanjutnya, untuk penambahan berkas .gitignore juga tidak perlu mencentangnya karena repository ini tidak diperuntukan software development. Terakhir, kita tidak perlu mencentang penambahan lisensi karena pada latihan kali ini kita takkan membuat repository yang berkaitan dengan software development.
+
+Setelah melakukan konfigurasi dari pembuatan repository, sekarang kita sudah siap untuk membuat repository pertama kita. Hasil akhir dari konfigurasi tersebut dapat Anda lihat pada gambar berikut.
+dos:f34ddc75ea7a3cebcf2f0addb84267f920230829151732.png
+Langkah terakhir setelah melakukan konfigurasi terhadap repository baru adalah menekan tombol Create repository. Dengan menekan tombol tersebut, repository akan terbentuk dan setelah itu Anda akan diarahkan ke halaman utama dari repository tersebut.
+dos:a5cd4103ab93adec42f7fec41ede237720230829151804.pngGambar di atas merupakan tampilan ketika repository baru dibuat. Terlihat repository masih kosong dan nantinya akan berubah ketika sudah terisi dengan berkas-berkas.
+Selamat! Anda telah berhasil membuat repository baru di GitHub. Bagaimana menurut Anda? Mudah 'kan membuat repository di GitHub? Pada materi selanjutnya, kita akan mempelajari bagaimana cara membuat berkas Readme dalam repository yang baru saja kita buat. Selamat belajar!
+
+Sebelumnya
+Selanjutnya
+
+Kembali ke koridor
+
+
+Sabak
+
+CTRL
+/
+1
+Forum Diskusi
+Adaptive Reading
+MODUL
+
+KELAS AKTIF
+Belajar Dasar Git dengan GitHub
+
+78 / 78 modul
+100%
+Persiapan Belajar
+Persetujuan Hak Cipta
+1.1 · Gratis
+Prasyarat Kemampuan
+1.2 · Gratis
+Prasyarat Tools
+1.3 · Gratis
+Mekanisme Belajar
+1.4 · Gratis
+Forum Diskusi
+1.5 · Gratis
+Glosarium
+1.6 · Gratis
+Daftar Referensi
+1.7 · Gratis
+Latihan Ujian
+1.8 · Gratis
+Git dan GitHub
+Pengantar Git dan GitHub
+2.1 · Gratis
+Mengenal Git secara Lebih Dalam
+2.2 · Gratis
+Mengenal GitHub secara Lebih Dalam
+2.3 · Gratis
+Latihan Membuat Akun GitHub
+2.4 · Gratis
+Latihan Mengeksplorasi Proyek GitHub
+2.5 · Gratis
+Latihan Mengenal GitHub Dashboard
+2.6 · Gratis
+Notifikasi GitHub
+2.7 · Gratis
+Rangkuman Git dan Github
+2.8 · Gratis
+Kuis Git dan Github
+2.9
+Dasar Git
+Pengantar Dasar Git
+3.1
+Mengenal Perintah Dasar Git secara Lebih Dalam
+3.2
+Mengenal Git Workflow
+3.3
+Mengenal Repository
+3.4
+Latihan Membuat Repository Baru
+3.5
+Latihan Membuat Readme untuk Repository
+3.6
+Latihan Menambahkan File Baru
+3.7
+Latihan Mengubah Data dalam Berkas Menggunakan Com...
+3.8
+Latihan Membuat Release File
+3.9
+Rangkuman Dasar Git
+3.10
+Kuis Dasar Git
+3.11
+Studi Kasus Pengalaman Belajar
+Persiapan Studi Kasus Pengalaman Belajar
+4.1
+Membuat Repository Baru
+4.2
+Menambahkan Pengalaman Belajar Pertama
+4.3
+Menambahkan Kembali Progres Belajar
+4.4
+Mengubah Tampilan Menggunakan Format Markdown
+4.5
+Tantangan Menambahkan Progres Belajar
+4.6
+Melihat History Perubahan
+4.7
+Merilis Dokumentasi Pengalaman Belajar
+4.8
+Rangkuman Studi Kasus Pengalaman Belajar
+4.9
+Kuis Studi Kasus Pengalaman Belajar
+4.10
+Git Branches
+Pengantar Git Branches
+5.1
+Apa itu Branch
+5.2
+Latihan Membuat Branch Baru
+5.3
+Latihan Melakukan Perpindahan Branch
+5.4
+Apa itu Merge
+5.5
+Apa itu Pull Request
+5.6
+Latihan Melakukan Merge
+5.7
+Latihan Menyelesaikan Merge Conflict
+5.8
+Rangkuman Git Branches
+5.9
+Kuis Git Branches
+5.10
+Kolaborasi dengan Tim
+Pengantar Kolaborasi dengan Tim
+6.1
+Apa itu Kolaborasi
+6.2
+Latihan Berkolaborasi dengan Tim
+6.3
+Apa Itu Fork
+6.4
+Latihan Berkolaborasi pada Public Repository
+6.5
+Latihan Melakukan Revert
+6.6
+Apa Itu Squashing Changes
+6.7
+Latihan Melakukan Squashing Changes
+6.8
+Apa Itu Code Reviews
+6.9
+Latihan Melakukan Code Reviews
+6.10
+Rangkuman Kolaborasi dengan Tim
+6.11
+Kuis Kolaborasi dengan Tim
+6.12
+Studi Kasus Kolaborasi dengan Tim
+Persiapan Studi Kasus Kolaborasi dengan Tim
+7.1
+Membuat Repository Baru
+7.2
+Menambahkan Aturan Mendaftar Volunter
+7.3
+Menyalin Repository
+7.4
+Menambahkan Data Diri dalam Berkas README.md
+7.5
+Melakukan Pull Request
+7.6
+Menangani Pull Request
+7.7
+Tantangan Melakukan Pull-Request pada Repository D...
+7.8
+Rangkuman Studi Kasus Kolaborasi dengan Tim
+7.9
+Kuis Studi Kasus Kolaborasi dengan Tim
+7.10
+GitHub sebagai Portfolio
+Pengantar GitHub sebagai Portofolio
+8.1
+Mengapa GitHub Menjadi Portofolio para Developer
+8.2
+Latihan Membuat Portofolio Menggunakan GitHub
+8.3
+Latihan Melihat Portofolio para Developer
+8.4
+Rangkuman GitHub sebagai Portofolio
+8.5
+Kuis GitHub sebagai Portofolio
+8.6
+Penutup
+Rangkuman Kelas
+9.1
+Ujian Akhir
+9.2
+Latihan Membuat Readme untuk Repository
+
+
+Tujuan
+Latihan Membuat Readme untuk Repository ini bertujuan untuk mengajarkan Anda bagaimana cara membuat berkas readme dalam repository. Beberapa bagian dari latihan ini akan menjawab berbagai pertanyaan seperti berikut.
+
+Apa itu berkas readme dalam sebuah repository?
+Bagaimana cara membuat berkas readme?
+Apa yang perlu diperhatikan dan dipersiapkan?
+
+
+Tahapan Proses
+Berikut tahapan proses yang akan kita lakukan dalam latihan membuat readme baru dalam repository.
+
+Membuka halaman repository yang dibuat pada latihan sebelumnya.
+Membuat berkas readme baru.
+Menambahkan teks ke dalam berkas readme.
+Menyimpan berkas readme.
+Melihat hasil penambahan berkas readme.
+
+
+Latihan Membuat Readme untuk Repository
+Hampir semua pengguna Git pasti membuat README pada repository mereka, yakni berkas teks yang berisi informasi tentang penjelasan singkat/detail, cara penggunaan, dan sebagainya pada projek yang ada di dalam repository tersebut.
+
+Berkas readme biasanya akan dilihat pertama kali sewaktu mengunjungi repository Anda. Berkas README biasanya berekstensi markdown (.md) yang digunakan untuk menghasilkan sebuah html ringkasan. Maksudnya seperti apa? Jika kita mengeksplorasi repository yang ada di GitHub, perhatikan pada bagian bawah repository tersebut, pasti terdapat tampilan dari berkas README.md. Untuk lebih jelasnya, coba perhatikan bagian gambar berikut.
+
+dos:eaafb6b7507618ea7aae53e0ca020dee20230830171921.png
+
+Pada gambar di atas, bisa dilihat bahwa pada bagian bawah repository terdapat tampilan README.md yang menginformasikan berbagai hal mengenai repository tersebut. Ketika membuat README.md di dalam repository, berkas tersebut akan terbaca oleh sistem dan akan ditampilkan hasilnya.
+
+Dalam membuat README.md, ada beberapa hal yang perlu diperhatikan, yaitu struktur README.md. Kalau kita perhatikan pada gambar di atas, ada bagian README yang tersusun dari Heading, Subheading, Paragraf, dan ada beberapa kata yang bercetak tebal ataupun miring.
+
+Lalu, bagaimana cara membuat README.md yang baik? Untuk itu, ikutilah beberapa tahap berikut untuk mengikuti latihan membuat berkas readme untuk repository:
+
+Bukalah kembali repository yang telah Anda buat sebelumnya yang bernama “daftar-biodata-siswa”.
+dos:7f2384da126f8771fd00e0dc7a34a6d920230830172014.png
+Kemudian, klik tautan README untuk membuat berkas README seperti gambar berikut.
+dos:2dbd13e57c831e829da8da6c631dac5920230830172109.png
+Setelah menekan tautan untuk membuat README, kita akan menuju ke halaman pembuatan berkas README seperti gambar berikut.
+dos:d7a11293f0d8941a924f97503ef7c64820230830172151.png
+Penulisan di README.md itu cukup unik, di mana untuk membuat tulisan heading kita perlu menggunakan simbol pagar (#), lalu diikuti dengan kalimat yang akan menjadi heading.
+dos:59ae862f7a322111fc5dd754b574523820230830172236.pngAnda juga bisa menulis menggunakan simbol (==) pada baris baru setelah kalimat yang ingin Anda ubah menjadi heading. Contohnya seperti gambar berikut.
+dos:e6c93032970f0d05498a4fef211d0f5220230830173417.png
+Untuk membuat sub-heading, Anda dapat menggunakan simbol (--) pada baris baru setelah kalimat yang ingin diubah menjadi sub-heading. Berikut contoh penggunaan sub-heading pada sebuah kalimat.
+dos:c21e2f20f8459d83a52ea225c7ed1c8620230830173442.png
+Anda dapat mengapit kalimat menggunakan simbol bintang (*) untuk membuat tulisan bercetak miring.
+dos:5708e5d1789b930c1ef79c6070b24bc720230830173503.png
+Jika ingin membuat list, Anda dapat menggunakan simbol (-) dan diikuti dengan kata yang dijadikan item dari list tersebut.
+dos:8cd7e3a11ff22efdec23d7350737d85e20230830173519.pngTentunya masih banyak cara dalam memberikan format penulisan pada berkas README.md. Untuk latihan membuat README.md ini, kita cukup menggunakan format heading, subheading, list, serta penulisan bercetak miring saja. Untuk format penulisan yang lebih lengkap, Anda dapat mempelajarinya di markdownguide.org/basic-syntax.
+
+Jika Anda kesulitan untuk mengikuti apa yang ditulis dalam berkas readme, silakan gunakan teks berikut, ya.
+daftar-biodata-siswa
+==
+Daftar biodata siswa Dicoding Academy
+--
+*Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
+
+Setelah selesai, periksalah terlebih dahulu tampilan dari apa yang telah kita tulis. Anda bisa menggunakan fitur preview.
+dos:16e364fdcc596052170e75a8b16143ab20230830173629.png
+Jika sudah sesuai, lanjut ke bagian selanjutnya. Silakan klik tombol Commit changes..., GitHub akan memunculkan popup yang perlu Anda isi. Anda dapat mengisi pesan commit beserta deskripsi sesuai perubahan yang telah dilakukan. Jika sudah yakin dengan yang telah ditulis, tekanlah tombol Commit changes... dalam popup untuk menyimpan hasil pembuatan berkas README.md tersebut.
+dos:3fbd0a2a8a0805699fbda8077b4657ee20230830173805.png
+Setelah menekan tombol Commit changes yang kedua, Anda akan diarahkan kembali ke halaman utama repository. Setelah itu, perhatikanlah perbedaan apa yang terjadi pada halaman utama repository. Benar! Berkas README.md yang telah kita buat akan tampil di bagian bawah dari repository, serta berkas tersebut tersimpan di dalam repository.
+dos:d0df1b246c41d85bb4bf9e2c1cb59c5120230830173833.png
+Keren, kan? Itulah alasan yang membuat berkas README cukup penting dalam repository. Sebab berkas readme dapat digunakan sebagai pengantar dan penjelasan dari proyek yang ada dalam repository kita.
+
+Sejauh ini, kita sudah memahami pentingnya berkas README dan belajar bagaimana membuat berkas tersebut dalam repository. Latihan selanjutnya akan mengajarkan Anda bagaimana menambahkan berkas baru ke dalam repository. Oleh karena itu, mari kita lanjut ke materi berikutnya. Tetap semangat, ya!
+
+Sebelumnya
+Selanjutnya
+
+
+
+
+
+
+
+Pengantar GitHub sebagai Portofolio
+Sebelum kita mengenal lebih jauh tentang Portofolio, tentunya kita harus paham terlebih dahulu dengan arti portofolio. Secara umum, portofolio merupakan kumpulan dokumen dan tulisan yang disusun secara rapi dan menarik. Artinya, portofolio ini berupa laporan lengkap dari suatu dokumen dan hasil karya dari aktivitas seseorang yang telah dilakukan. Tujuan dari portofolio adalah untuk mendokumentasikan perkembangan suatu proses dalam mencapai tujuan yang telah dicapai.
+Portofolio menjadi hal yang wajib dibuat bagi seorang developer. Melalui portofolio, orang lain dapat melihat berbagai informasi seperti data diri, kemampuan yang dimiliki, seberapa aktif dalam berkontribusi, project atau karya apa yang sedang dikembangkan, dan sebagainya. Contohnya, ketika Anda membangun aplikasi dan mendokumentasikannya dalam portofolio, maka orang lain dapat memahami dengan mudah kemampuan yang Anda miliki ketika membangun aplikasi tersebut. 
+Lalu apa bedanya dengan CV? CV atau curriculum vitae merupakan gambaran tertulis tentang pengalaman seseorang beserta kualifikasi lain untuk mendapatkan kesempatan kerja. Berbeda dengan portofolio yang biasanya digunakan untuk membuktikan apa yang telah ditulis dalam CV. Contohnya, dalam CV Anda menuliskan mempunyai kemampuan untuk membangun aplikasi Android. Kemampuan tersebut dibuktikan dengan portofolio, bisa dalam bentuk url aplikasi, gambar aplikasinya, atau mungkin source code jika bersifat open source.
+Oleh karena itulah, portofolio itu penting bagi seorang developer. Terlebih jika saat ini Anda adalah calon developer yang sedang mencari pekerjaan, portofolio akan membuat nilai diri Anda meningkat. Sehingga memudahkan perekrut dalam menentukan apakah kualifikasi Anda sesuai dengan jenis pekerjaan yang ditawarkan. Selain itu, ada beberapa perusahaan yang lebih mempertimbangkan daftar pencapaian daripada tingkat pendidikan seseorang.
+
+Untuk menambah wawasan Anda mengenai portofolio, mari kita pelajari salah satu platform atau media yang dapat digunakan untuk membangun portofolio, yakni GitHub. Mungkin Anda akan berpikir, “Loh, kok bisa sih? Bukankah GitHub hanya berfungsi untuk menempatkan sumber kode atau source code dari sebuah produk?” Tak perlu pusing memikirkannya. Sebab dengan mempelajari modul ini, kita akan tahu jawaban mengapa Git (GitHub) dapat digunakan untuk membangun portofolio para developer. Yuk, lanjut ke materi selanjutnya. Selamat belajar!
+
